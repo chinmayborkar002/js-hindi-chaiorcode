@@ -28,6 +28,19 @@ let booleanLoggedIn = Boolean(isLoggedIn);
 let Num = 45;
 
 let stringNum = String(Num);
-console.log(typeof Num);
-console.log(typeof stringNum);
-console.log(stringNum);
+// console.log(typeof Num);
+// console.log(typeof stringNum);
+// console.log(stringNum);
+
+        ////////////////////OPEARTIONS//////////////////////////
+
+console.log(2**3);
+
+console.log("1"+2); //12
+console.log(1+"2"); //12
+console.log(1+2+"2"); //32
+console.log("1"+2+2); //122
+
+// if first element is string then remaining element is treated as string only... 
+
+
